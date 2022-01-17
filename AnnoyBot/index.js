@@ -5,7 +5,6 @@ const net = require('net');
 const bot = mineflayer.createBot({
   host: 'mc.hypixel.net',
   username: 'annoyv2bot@gmail.com',
-  //password: 'Annoybot123!',
   version: "1.16.5",
   auth: 'microsoft'
 })
